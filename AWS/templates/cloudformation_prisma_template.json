@@ -217,7 +217,7 @@
           ]
         },
         "Timeout": "300",
-        "Runtime": "python3.6"
+        "Runtime": "python3.9"
       }
     },
     "PrismaLambdaTrigger": {
